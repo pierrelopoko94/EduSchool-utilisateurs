@@ -1,0 +1,6 @@
+{
+  "name": "EduSchool - Rejoindre une école",
+  "description": "Parcours d'inscription interactif de gestion scolaire multi-écoles pour élèves, parents et professeurs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
